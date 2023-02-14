@@ -1,0 +1,56 @@
+<style>
+      /* Estilos oficinas */
+      header {
+        background-color: #5f9ea0;
+        padding: 20px;
+        text-align: center;
+      }
+      h2 {
+        color: white;
+        font-size: 32px;
+        margin-top: 0;
+      }
+
+      #rent-offices {
+        padding: 50px 0;
+        background-color: #f2f2f2;
+      }
+
+      #rent-offices h2 {
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        margin-bottom: 50px;
+      }
+
+      .office {
+        width: 33.33%;
+        float: left;
+        text-align: center;
+        margin-bottom: 50px;
+      }
+
+      .office img {
+        width: 100%;
+        height: 200px;
+        object-fit: cover;
+        margin-bottom: 25px;
+      }
+
+      .office h3 {
+        font-size: 24px;
+        font-weight: bold;
+        margin-bottom: 25px;
+      }
+
+      .office p {
+        font-size: 18px;
+        margin-bottom: 25px;
+      }
+
+      .office .price {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 25px;
+      }
+</style>
